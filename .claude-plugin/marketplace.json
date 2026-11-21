@@ -1,0 +1,17 @@
+{
+  "name": "coder-kit",
+  "owner": { "name": "quanhn9792" },
+  "metadata": {
+    "description": "Skills and agents for code review, ML engineering, data engineering and testing.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "coder-kit",
+      "source": "./plugins/coder-kit",
+      "description": "Code review + MLE, Data Engineer and Tester skills, subagents and slash commands.",
+      "version": "0.1.0",
+      "category": "development"
+    }
+  ]
+}
