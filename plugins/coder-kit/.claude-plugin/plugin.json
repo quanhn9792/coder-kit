@@ -1,0 +1,9 @@
+{
+  "name": "coder-kit",
+  "version": "0.1.0",
+  "description": "Code review + MLE, Data Engineer and Tester skills, subagents and slash commands.",
+  "author": { "name": "quanhn9792" },
+  "repository": "https://github.com/quanhn9792/coder-kit",
+  "license": "MIT",
+  "keywords": ["code-review", "mle", "data-engineering", "testing"]
+}
